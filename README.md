@@ -1,6 +1,8 @@
 # 💫 About Me:
 💻 Passionate Full-Stack Web Developer<br>🌱 Currently building a Major Project using MERN Stack<br>🤖 Interested in AI/ML & scalable backend systems<br>🚀 Successfully deployed production apps on Render<br>🧠 Always learning and improving my development workflow<br>🎯 Goal: Become a highly skilled MERN Stack Developer
 
+## 🐍 Contribution Snake
+![snake gif](https://github.com/arkaprava-sinha/arkaprava-sinha/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arkaprava--sinha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arkaprava002@gmail.com) 
